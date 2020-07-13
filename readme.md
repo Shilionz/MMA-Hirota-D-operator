@@ -1,4 +1,4 @@
-A Mathematica program about calculating Hirota bilinear D-operator.
+Mathematica Hirota D-operator
 ====
 **`Dop.m` is not a complete Mathematica package, it only contains a function. You may directly paste it into your programs for using.**
 
@@ -26,7 +26,7 @@ that is how we obtained the calculation program.
 
 **Usage**  
 ```Dop[a[x, t], b[x, t], x, t, m, n]```  
-Return the result for (*).
+Return the result for `(*)`.
 
 **Example**  
 `Dop-example.nb` contains several examples.
