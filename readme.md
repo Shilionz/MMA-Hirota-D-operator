@@ -1,6 +1,6 @@
 A Mathematica program about calculating Hirota bilinear D-operator.
 ====
-**`Dop.m` is not a Mathematica package, it only contains a function. You may directly paste it into your programs for using.**
+**`Dop.m` is not a complete Mathematica package, it only contains a function. You may directly paste it into your programs for using.**
 
 **Intro**  
 This Mathematica program may help you finding the bilinear form of certain equation, or quickly verifying your calculation result.
