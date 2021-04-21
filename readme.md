@@ -29,4 +29,4 @@ that is how we obtained the calculation program.
 Return the result for `(*)`.
 
 **Example**  
-`Dop-example.nb` contains several examples.
+`Example.nb` contains several examples.
