@@ -26,7 +26,9 @@ that is how we obtained the calculation program.
 
 **Usage**  
 ```Dop[a[x, t], b[x, t], x, t, m, n]```  
-Return the result for `(*)`.
+Return the result for `(*)`.  
+Or simplier
+```Dop[a, b, x, t, m, n]```
 
 **Example**  
 `Example.nb` contains several examples.
