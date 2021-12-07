@@ -32,3 +32,8 @@ Or simplier
 
 **Example**  
 `Example.nb` contains several examples.
+
+
+TODO
+====
+The higher number of veriables with such recursive implementation is considerable (Now only two).
